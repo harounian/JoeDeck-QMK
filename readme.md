@@ -6,10 +6,14 @@ The JoeDeck is a device that allows you to interact with your PC in a different 
 
 -   Keyboard Maintainer: joeyharounian
 -   Hardware Supported: JoeDeck
--   Hardware Availability: https://joedeck.shop
+-   Hardware Availability: https://www.joedeck.shop
 
 Make example for this keyboard (after setting up your build environment):
 
-    qmk compile -kb joedeck -km default
+    make joedeck:default
+    
+Flashing example for this keyboard:
 
+    make joedeck:default:flash
+    
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
