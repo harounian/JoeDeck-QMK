@@ -4,7 +4,7 @@
 
 The JoeDeck is a device that allows you to interact with your PC in a different way. Other than a keyboard or mouse, this device is based on changing volume and macro functions. It has 13 buttons that can be reprogrammed to suit your needs. It also gives you the ability to adjust the volume of your programs and output/input devices and even mix/balance them to your hearts content.
 
--   Keyboard Maintainer: joeyharounian
+-   Keyboard Maintainer: joe
 -   Hardware Supported: JoeDeck
 -   Hardware Availability: https://www.joedeck.shop
 
