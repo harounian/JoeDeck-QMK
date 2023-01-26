@@ -2,7 +2,8 @@
 
 ![frame 0](https://user-images.githubusercontent.com/37491092/183949934-68444ba2-70cf-43f9-bd4f-19fba770f38f.png)
 
-The JoeDeck is a device that allows you to interact with your PC in a different way. Other than a keyboard or mouse, this device is based on changing volume and macro functions. It has 13 buttons that can be reprogrammed to suit your needs. It also gives you the ability to adjust the volume of your programs and output/input devices and even mix/balance them to your hearts content.
+The JoeDeck is a small computer peripheral device that allows users to assign macros, or pre-programmed sequences of keystrokes that can be executed with a single button press. These macros can be used for a variety of purposes, such as in-game shortcuts or automating repetitive tasks. In addition to this, it gives you the ability to adjust the volume levels of your programs and output/input devices, so you can mix/balance them to your heart's content. It's commonly used by gamers and programmers as a way to improve their productivity and efficiency.
+
 
 -   Keyboard Maintainer: JoeDeck Inc.
 -   Hardware Supported: JoeDeck
